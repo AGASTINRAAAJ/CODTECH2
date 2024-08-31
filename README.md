@@ -56,3 +56,5 @@ The confusion matrix is plotted using seaborn to show the true vs. predicted lab
 Conclusion
 
 The script demonstrates a complete machine learning pipeline for sentiment analysis, from loading data to evaluating and visualizing the model's performance. The key aspects include data preprocessing, model training with cross-validation, hyperparameter tuning, and final model evaluation with a confusion matrix.
+![IMG-20240831-WA0004](https://github.com/user-attachments/assets/6789a1b8-6040-4fb2-9b28-e8a0431bb4f9)
+![IMG-20240831-WA0006](https://github.com/user-attachments/assets/136e5d98-6e4c-4d6f-9958-3a05fde5f84a)
